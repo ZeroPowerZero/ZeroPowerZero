@@ -77,7 +77,7 @@ Optimization-focused project reducing network load by **predicting projectile pa
 ---
 
 ### 📫 Contact Me
-- 📧 **Email:** *(add yours here)*  
+- 📧 **Email:** *zeropowerzero6@gmail.com*  
 - 💬 **Discord / Telegram:** `@susheeldev` *(update handle)*  
 
 <p align="center">
