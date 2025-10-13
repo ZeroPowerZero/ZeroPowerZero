@@ -1,114 +1,122 @@
 <!-- Profile README for Susheel Sharma -->
 
-<h1 align="center">Hi, I'm Susheel Sharma 👋</h1>
-<h3 align="center">🎮 MCA Student | Indie Game Developer | C++ & Godot Enthusiast</h3>
+<h1 align="center">🧠 Susheel Sharma</h1>
+<h3 align="center">🎮 Indie Game Developer | MCA Student | C++ • Godot • Unreal • Algorithms</h3>
 
 <p align="center">
-  <img src="assets/hero.gif" alt="hero" width="600">
+  <img src="assets/hero.gif" alt="Susheel Sharma Banner" width="700">
 </p>
 
 ---
 
-### 🌟 About Me
-I'm a passionate **MCA student** exploring the intersection of **game development, algorithms, and networking**.  
-I love crafting small, clever systems — from multiplayer experiments to data visualization tools — using **C++**, **Godot**, and **Python**.
-
-💡 *My goal: Combine creativity, logic, and technology to make fun, meaningful projects.*
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=1000&color=00FFF0&center=true&vCenter=true&width=600&lines=Game+Developer+%7C+C%2B%2B+Programmer;Unreal+%26+Godot+Enthusiast;Algorithm+Visualizer;Turning+Ideas+into+Playable+Worlds..." />
+</p>
 
 ---
 
-### 🧠 Currently Learning
+### 🌌 About Me
+
+Hey there! I’m **Susheel**, an MCA student and an **indie game developer** passionate about creating  
+games that combine **logic, systems, and creativity**.  
+
+💻 I love building **C++ tools**, experimenting with **multiplayer gameplay**, and  
+visualizing **algorithms** through code and design.
+
+🧩 *Currently exploring Unreal Engine 5, predictive systems, and performance-driven gameplay.*
+
+---
+
+### ⚙️ Core Skills
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" />
-  <img src="https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=unreal-engine&logoColor=white" />
-  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,java,godot,unreal,blender,git,github,vscode" />
 </p>
+
+| Type | Tools |
+|:--|:--|
+| 🎮 **Game Engines** | Godot, Unreal Engine 5 |
+| 💻 **Languages** | C++, Python, Java, GDScript |
+| 🧠 **Focus Areas** | Gameplay Systems, Algorithms, Multiplayer Logic |
+| 🛠️ **Tools** | Git, GitHub Actions, Blender, matplotlib |
 
 ---
 
 ### 🚀 Featured Projects
 
-#### 🎴 4-Player Card Game (Godot)
-Role-based local multiplayer card game — **King, Queen, Bishop, Thief** — logic-driven rounds and scoring.  
-🧩 Currently expanding into **mobile hotspot multiplayer** mode.
+#### 🎴 **4-Player Card Game (Godot)**
+> Role-based local multiplayer game — *King, Queen, Bishop, Thief*.  
+Implements turn logic, guessing, and scoring.  
+🕹️ *Next milestone:* adding Wi-Fi multiplayer over local hotspot.
 
-#### ⚙️ Sorting Algorithms Visualizer (C++ + Python GUI)
-Generates random data, executes multiple sorting algorithms, records timings, and plots performance graphs automatically.
+#### ⚙️ **Sorting Algorithm Visualizer (C++ + Python GUI)**
+> C++ sorting backend + Python visual frontend that graphs algorithm performance  
+for different data sizes. Built to study performance in real-time.
 
-#### 🏍️ Road Rash–like Racing Prototype
-Early experiment mixing racing physics, melee collisions, and speed boosts. Built in **Godot/Unreal**.
+#### 🏍️ **Road Rash–Inspired Prototype**
+> Racing + melee system experiment. Combining **speed, collisions, and arcade fun**  
+in Godot and Unreal for learning physics tuning.
 
-#### 💥 Multiplayer Tank & Bullet Sync Experiments
-Optimization-focused project reducing network load by **predicting projectile paths** and pooling objects.
-
----
-
-### 🛠️ Tech & Tools
-
-| Category | Tools |
-|:--|:--|
-| **Languages** | C++, C, Python, Java, GDScript |
-| **Game Engines** | Godot, Unreal Engine 5 |
-| **3D Tools** | Blender |
-| **OS & Networking** | Linux (Kali), Windows |
-| **Other Tools** | Git, GitHub Actions, matplotlib, Wireshark |
+#### 💥 **Multiplayer Tank Experiment**
+> Reducing replication cost via **predictive bullets** and **object pooling** —  
+tests smoothness and sync accuracy over unstable connections.
 
 ---
 
-### 📊 GitHub Stats
+### 🧠 Algorithm Playground
+> “Games are systems — and systems are algorithms in motion.”
+
+I enjoy designing algorithmic logic to improve gameplay:  
+pathfinding, state management, decision trees, and procedural randomness.
+
+---
+
+### 🧩 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SusheelSharma&show_icons=true&theme=tokyonight&count_private=true" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SusheelSharma&layout=compact&theme=tokyonight" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=SusheelSharma&show_icons=true&theme=radical&count_private=true" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=SusheelSharma&theme=radical&date_format=j%20M%5B%20Y%5D" width="48%">
 </p>
 
 ---
 
-### 🎯 My Current Focus
-- Learning **Unreal Engine 5** and building racing prototypes  
-- Deep diving into **networked gameplay systems**  
-- Exploring **Kali Linux** and cybersecurity tools  
-- Creating visually appealing **C++ algorithm visualizations**
+### 🎯 Current Focus
+🧠 Leveling up **C++ architecture** & algorithm efficiency  
+🎮 Building more **multiplayer experiments** in Godot & Unreal  
+⚙️ Creating **visual debugging tools** for developers  
+📊 Learning **performance optimization** in gameplay code  
 
 ---
 
-### 📫 Contact Me
-- 📧 **Email:** *zeropowerzero6@gmail.com*  
-- 💬 **Discord / Telegram:** `@susheeldev` *(update handle)*  
+### 🕹️ Cool Dev Extras
 
 <p align="center">
-  <a href="https://github.com/SusheelSharma">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_ID">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=SusheelSharma&theme=radical&no-frame=true&margin-w=5" width="90%" />
+</p>
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=SusheelSharma&limit=5&theme=radical&combine_all_yearly_contributions=true" width="90%">
 </p>
 
 ---
 
-### ⚡ Fun Fact
-> “Game dev isn’t just about graphics — it’s about designing experiences powered by logic and imagination.”
-
----
-
-### 🏁 Quick Setup Tips
-1. Upload your gameplay GIF at `assets/hero.gif`
-2. Pin these repos to your profile:
-   - `card-game-godot`
-   - `sorting-visualizer`
-   - `road-rash-prototype`
-   - `multiplayer-tank-net`
-3. Keep this README updated — it’s your portfolio front page 🚀
+### 📫 Connect with Me
+<p align="center">
+  <a href="mailto:zeropowerzero6@gmail.com"><img src="https://img.shields.io/badge/Email-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/SusheelSharma"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_ID"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SusheelSharma&color=blueviolet&style=for-the-badge" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=SusheelSharma&color=00FFF0&style=for-the-badge" alt="Profile Views" />
 </p>
 
-*Last updated: October 2025 ✨*
+<p align="center">
+  ⚡ <b>“Building worlds one system at a time.”</b> ⚡
+</p>
+
+---
+
+<p align="center"><i>Last Updated: October 2025 ✨</i></p>
