@@ -88,7 +88,7 @@ pathfinding, state management, decision trees, and procedural randomness.
 
 ---
 
-### 🕹️ Cool Dev Extras
+<!--### 🕹️ Cool Dev Extras
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=SusheelSharma&theme=radical&no-frame=true&margin-w=5" width="90%" />
@@ -96,15 +96,15 @@ pathfinding, state management, decision trees, and procedural randomness.
 
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=SusheelSharma&limit=5&theme=radical&combine_all_yearly_contributions=true" width="90%">
-</p>
+</p> -->
 
----
+
 
 ### 📫 Connect with Me
 <p align="center">
   <a href="mailto:zeropowerzero6@gmail.com"><img src="https://img.shields.io/badge/Email-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/SusheelSharma"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_ID"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <!-- <a href="https://github.com/SusheelSharma"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_ID"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> -->
 </p>
 
 ---
@@ -119,4 +119,12 @@ pathfinding, state management, decision trees, and procedural randomness.
 
 ---
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,python,godot,unreal,blender,git,github,vscode" />
+</p>
+
 <p align="center"><i>Last Updated: October 2025 ✨</i></p>
+
+
+<p align="center">Leveling up: Networking ⚡ | Game Systems 🎮 | Algorithms 🧠</p>
+
