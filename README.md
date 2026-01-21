@@ -71,12 +71,24 @@ pathfinding, state management, decision trees, and procedural randomness.
 
 ---
 
-### 🧩 GitHub Analytics
+### **Contribution Graph**  
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SusheelSharma&show_icons=true&theme=radical&count_private=true" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=SusheelSharma&theme=radical&date_format=j%20M%5B%20Y%5D" width="48%">
-</p>
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=zeropowerzero&theme=react-dark)
+
+</div>
+
+---
+
+# 📊 GitHub Analytics 
+
+<img src="https://streak-stats.vercel.app/?user=zeropowerzero&theme=radical&hide_border=false&border_radius=5&border=8B5CF6" height="170" />
+
+---
+
+## 🏆 GitHub Trophies  
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=zeropowerzero&theme=radical)](https://github.com/Danny-Wits)
 
 ---
 
