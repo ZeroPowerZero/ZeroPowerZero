@@ -110,7 +110,7 @@ pathfinding, state management, decision trees, and procedural randomness.
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SusheelSharma&color=00FFF0&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=zeropowerzero&color=00FFF0&style=for-the-badge" alt="Profile Views" />
 </p>
 
 <p align="center">
