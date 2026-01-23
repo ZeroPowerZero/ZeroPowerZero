@@ -85,12 +85,12 @@ pathfinding, state management, decision trees, and procedural randomness.
 <img src="https://streak-stats.vercel.app/?user=zeropowerzero&theme=radical&hide_border=false&border_radius=5&border=8B5CF6" height="170" />
 
 ---
-
+<!--
 ## 🏆 GitHub Trophies  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=zeropowerzero&theme=radical)](https://github.com/Danny-Wits)
+[![trophy](https://github-profile-trophy.vercel.app/?username=zeropowerzero&theme=radical)]
 
----
+-->
 
 ### 🎯 Current Focus
 🧠 Leveling up **C++ architecture** & algorithm efficiency  
@@ -99,11 +99,11 @@ pathfinding, state management, decision trees, and procedural randomness.
 📊 Learning **performance optimization** in gameplay code  
 
 ---
-
-<!--### 🕹️ Cool Dev Extras
+<!--###
+ 🕹️ Cool Dev Extras
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SusheelSharma&theme=radical&no-frame=true&margin-w=5" width="90%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=zeropowerzero&theme=radical&no-frame=true&margin-w=5" width="90%" />
 </p>
 
 <p align="center">
